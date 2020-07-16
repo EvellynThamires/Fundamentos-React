@@ -1,3 +1,4 @@
 ## Sobre
 
-Projeto feito pelo curso de React da Cod3r.
+Introdução ao React pela Cod3r
+
